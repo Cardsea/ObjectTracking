@@ -1,9 +1,6 @@
 import cv2
-import torch
-import numpy as np
 import pyautogui
-from PyQt5 import QtWidgets, QtGui, QtCore
-import threading
+from PyQt5 import QtWidgets, QtGui
 from ultralytics import YOLO
 from PIL.ImageQt import ImageQt
 
