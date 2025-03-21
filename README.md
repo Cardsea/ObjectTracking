@@ -12,7 +12,7 @@ Hewwo wowwd~ I detect u :3
 
 ## How to Use?  
 ### Step 1: Download da fiwe~  
-[**⬇️ Download detect_objects.py**](./detect_objects.py)  
+[**⬇️ Download detect_objects.py**](./objectdetection.py)  
 
 ### Step 2: Instaww da magic~  
 ```bash  
