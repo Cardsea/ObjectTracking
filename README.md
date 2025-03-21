@@ -1,4 +1,4 @@
-# Object Detector 3000  
+# Object Detector 
 Hewwo wowwd~ I detect u :3  
 
 ---  
